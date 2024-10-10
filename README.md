@@ -13,5 +13,5 @@ Develop a predictive model to accurately forecast customers' seat purchase decis
 
 Our team, **The Model Misfits**, participated in the Air Canada Challenge. We competed against various teams and secured the 4th position, showcasing our skills in model accuracy and precision. The challenge allowed us to refine our approach, enhancing our predictive modeling capabilities.
 
-![Leaderboard Overview](Leaderboard of Air Canada Challenge.png)
+![Leaderboard Overview](Leaderboard%20of%20Air%20Canada%20Challenge.png)
 
